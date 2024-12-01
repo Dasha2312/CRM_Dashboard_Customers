@@ -1,0 +1,27 @@
+:root {
+  --black: #000000;
+  --light-grey: #9197B3;
+  --white: #FFFFFF;
+  --primary-blue: #5932EA;
+  --grey: #757575;
+  --dark-grey: #838383
+}
+
+.text-black {
+  color: #000000;
+}
+.text-light-grey {
+  color: #9197B3;
+}
+.text-white {
+  color: #FFFFFF;
+}
+.text-primary-blue {
+  color: #5932EA;
+}
+.text-grey {
+  color: #757575;
+}
+.text-dark-grey {
+  color: #838383;
+}
