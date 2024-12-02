@@ -1,10 +1,19 @@
 :root {
   --black: #000000;
+  --black2: #292D32;
+  --black3: #404B52;
   --light-grey: #9197B3;
   --white: #FFFFFF;
+  --white2: #EEE;
   --primary-blue: #5932EA;
   --grey: #757575;
-  --dark-grey: #838383
+  --dark-grey: #838383;
+  --light-white: #F9FBFF;
+  --grey2: #B5B7C0;
+  --green: #008767;
+  --light-green: #00B087;
+  --red: #DF0404;
+  --light-red: #FFC5C5;
 }
 
 .text-black {
